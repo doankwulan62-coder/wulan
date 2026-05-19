@@ -6,10 +6,10 @@ st.write(
 )
 import streamlit as st
 
-st.markdown("*Streamlit* is **really** ***cool***.")
+st.markdown("*wulan"" is **really** **kalcer***.")
 st.markdown('''
-    :red[Streamlit] :orange[can] :green[write] :blue[text] :violet[in]
-    :gray[pretty] :rainbow[colors] and :blue-background[highlight] text.''')
+    :red[wulan] :orange[tek lan] :green[lan] :blue[wul] :violet[etek]
+    :gray[laan] :rainbow[sen] and :blue-background[highlight] text.''')
 st.markdown("Here's a bouquet &mdash;\
             :tulip::cherry_blossom::rose::hibiscus::sunflower::blossom:")
 
